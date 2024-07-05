@@ -1,2 +1,8 @@
-# trie_Hard
-trie_Hard is a desktop software that acts as a dictionary lookup tool, offering features such as efficient search of valid words using a Trie data structure, spelling correction using dynamic programming for edit distance, and auto-suggestion for similar words. Users can also search for words by entering prefixes or suffixes to find words with specific beginnings or endings. Additionally, the software provides language selection options for looking up words in different languages.
+## trie_Hard Overview
+
+- **trie_Hard** is a desktop software designed as a dictionary lookup tool.
+- It utilizes a Trie data structure for efficient searching of valid words.
+- The software includes spelling correction using dynamic programming techniques for edit distance.
+- Users can benefit from auto-suggestion features that offer similar word recommendations.
+- It allows searching for words by entering prefixes or suffixes, aiding in finding words with specific beginnings or endings.
+- Users have the option to select different languages for looking up words.
